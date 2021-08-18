@@ -1,4 +1,4 @@
-# covidmobility_tdi
+# covid_countyrisk_cluster
 
 County-level covid-19 risk will be anticipated using publicly available datasets. A machine learning predictive model of risk will be developed and trained to cluster counties as a function of similar risk. US Covid Community Vulnerability Index (CCVI), developed by Surgo Ventures (and CDC), will be used in conjunction with: CDC vaccination data, county-level GDP (US Dept. of Commerce) and “mask use by county” dataset available on Goolge Cloud’s BigQuery.
 
